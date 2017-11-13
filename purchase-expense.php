@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Purchase expense</title>
+<title>Purchase cash</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link href="default.css" rel="stylesheet" type="text/css" />
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
@@ -27,7 +27,7 @@
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
-            <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-plus-square-o" aria-hidden="true"></i> <a href="#">Add purchase expense</a></li>
+            <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-plus-square-o" aria-hidden="true"></i> <a href="#">Add supplier</a></li>
           </ul>
         </ul>
     </div>
@@ -50,10 +50,7 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
       <div class='package'>
         <div class='name'>Iphone 6</div>
@@ -71,10 +68,7 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
       <div class='package'>
         <div class='name'>Iphone 6</div>
@@ -92,15 +86,13 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
     </div>
   </div>
 </div>
 <?php include 'footer.php'; ?>
+
 <!-- SCRIPT -->
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

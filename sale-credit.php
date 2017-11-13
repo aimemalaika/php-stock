@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Sale credit</title>
+<title>Purchase cash</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link href="default.css" rel="stylesheet" type="text/css" />
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
@@ -27,7 +27,7 @@
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
             <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-ellipsis-h" aria-hidden="true"></i> <a href="#">client one</a></li>
-            <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-plus-square-o" aria-hidden="true"></i> <a href="#">Add sale credit</a></li>
+            <li><i style="font-size: 17px;color: #60ff00;" class="fa fa-plus-square-o" aria-hidden="true"></i> <a href="#">Add supplier</a></li>
           </ul>
         </ul>
     </div>
@@ -36,7 +36,7 @@
       <center><h2 style="margin-top: 17px;">List of available product</h2></center>
       <div class='package'>
         <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
+        <div class='trial'>price: 100 000 frw</div>
         <hr>
         <div class='trial'>Description</div>
         <hr>
@@ -50,10 +50,11 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
       <div class='package'>
         <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
+        <div class='trial'>price: 100 000 frw</div>
         <hr>
         <div class='trial'>Description</div>
         <hr>
@@ -67,10 +68,11 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
       <div class='package'>
         <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
+        <div class='trial'>price: 100 000 frw</div>
         <hr>
         <div class='trial'>Description</div>
         <hr>
@@ -84,113 +86,13 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
+        <a href="" class='trial trialbut'>Purchase and details</a>
       </div>
     </div>
   </div>
 </div>
 <?php include 'footer.php'; ?>
+
 <!-- SCRIPT -->
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
