@@ -110,11 +110,21 @@ body,html{
 #wrapper-header{
 	float:left;
 	width:105%;
-  height: 65px;
+  height: 55px;
 	background-color: #2196F3;
   position: fixed;
 	opacity:0;
   z-index: 100000;
+}
+.ret{
+  font-size:20px;
+  border:1px solid black;
+  padding:10px;
+  background:whitesmoke;
+  border-radius: 10px;"
+}
+.ret:hover{
+  background: #2196e5CC;
 }
 
 #main-header{
@@ -127,9 +137,9 @@ body,html{
 
 .logo{
   position: absolute;
-  margin-top: 3.5px;
+  margin-top: 4px;
   color: whitesmoke;
-  font-size: 2em;
+  font-size: 2.5em;
   font-style: oblique;
   font-stretch: expanded;
 }
@@ -616,7 +626,7 @@ body,html{
 
 #main_tip_search{
 	float:right;
-	width:170px;
+	width:246px;
 	margin-top:13px;
 	height:auto;
 	margin-right:25px;
