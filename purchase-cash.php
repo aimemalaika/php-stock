@@ -50,52 +50,7 @@
         <hr>
         <br>
         <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>price: 100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
-      </div>
-      <div class='package'>
-        <div class='name'>Iphone 6</div>
-        <div class='trial'>price: 100 000 frw</div>
-        <hr>
-        <div class='trial'>Description</div>
-        <hr>
-        <br>
-        <div style="margin-bottom: -7px;max-height: 48px;overflow: hidden;">
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-            babababbaba abbababab abbababa abba abba ba abbaba ba aba ba aba ba ab
-        </div>
-        <div class='trial'>Available stock</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">120 iphone(s)</h4></center>
-        <div class='trial'>Supplier name</div>
-        <hr>
-        <br>
-        <center><h4 style="margin-top: -4px;color:black">Supplier one</h4></center>
+        <a href="#0" class='trial trialbut'>Purchase and details</a>
       </div>
     </div>
   </div>
