@@ -1,0 +1,58 @@
+.settings-section{
+  padding-top:10px;
+  padding-bottom:25px;
+  margin-bottom:25px;
+  margin-top:15px;
+}
+
+.footer-separator{
+  margin-bottom:50px;
+  margin-top:50px;
+}
+
+button.btn.btn-default.mibtn{
+  padding:8px 40px;
+  border:solid 3px rgb(68,138,255);
+  border-radius:0px;
+  background:white;
+  color:#448AFF;
+  letter-spacing:1.5px;
+  box-shadow:0px 0px 7px #BDBDBD;
+  transition:all 0.3s ease-in;
+  -webkit-transition:all 0.3s ease-in;
+  -moz-transition:all 0.3s ease-in;
+}
+
+button.btn.btn-default.mibtn:hover{
+  background:rgb(68,138,255);
+  color:#ffffff;
+  box-shadow:none;
+}
+
+div.last-col{
+  padding-bottom:70px;
+}
+
+div#custom-input-file.custom-input-file.divider-color{
+  border:solid 2px;
+  padding:7px 0px;
+  text-align:center;
+  width:174px;
+  cursor:pointer;
+}
+
+div#custom-input-file.custom-input-file.divider-color:hover{
+  background:#eee;
+}
+
+input.input-file{
+  position:absolute;
+  z-index:-2;
+  opacity:0;
+}
+
+span.custom-input-file-label{
+  font-size:larger;
+  font-weight:100;
+}
+

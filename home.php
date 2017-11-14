@@ -31,14 +31,11 @@
 
 <!-- HEADER -->
 
-<div id="wrapper-header">
+<center><div id="wrapper-header">
 	<div id="main-header" class="object">
-		<strong><div class="logo">Welcome to Shop name</div></strong>
-		<div id="main_tip_search">
-	<a style="font-size:20px;color: whitesmoke" href="php/logout.php">Deconnection</a>
+		<div class="logo">Welcome to Shop name</div>
 </div>
-  </div>
-</div>
+</div></center>
 
 
 <!-- PORTFOLIO -->

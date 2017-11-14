@@ -1,0 +1,154 @@
+nav.navbar.navbar-default{
+  background:white;
+}
+
+div.button-g-div{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+button.btn.btn-link.mi-btn-ico{
+  font-size:larger;
+}
+
+div.panel{
+  border-radius:0px;
+}
+
+ul.list-group :first-child{
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+}
+
+ul.list-group :last-child{
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+}
+
+div.para-pad{
+  padding-top:25px;
+}
+
+.mi-btn{
+  padding:10px;
+  box-shadow:0px 0px 7px #455A64;
+  background-color:white;
+  transition:background-color .3s ease-in;
+  -webkit-transition:background-color .3s ease-in;
+  -moz-transition:background-color .3s ease-in;
+  margin-left:1px;
+}
+
+.mi-btn a{
+  color:#448aff;
+  padding:10px;
+}
+
+.mi-btn:hover{
+  background-color:#448aff;
+}
+
+.mi-btn:active{
+  background-color:#448aff;
+}
+
+.mi-btn:hover a{
+  color:white;
+  text-decoration:none;
+}
+
+.mi-btn:active a{
+  color:white;
+  text-decoration:none;
+}
+
+li.list-group-item.side-btn-list{
+  transition:background-color 0.3s ease-in;
+  -moz-transition:background-color .3s ease-in;
+  -webkit-transition:background-color 0.3s ease-in;
+}
+
+li.list-group-item.side-btn-list:hover{
+  background-color:#448aff;
+}
+
+li.list-group-item.side-btn-list:hover a{
+  color:white;
+}
+
+button.btn.btn-link.btn-lg{
+  width:100%;
+  margin:10px 0px;
+  border-radius:0px;
+  transition:background-color 0.3s ease-in;
+  -moz-transition:background-color 0.3s ease-in;
+  -webkit-transition:background-color 0.3s ease-in;
+}
+
+div.container-fluid.import-outer-div{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  z-index:3;
+  opacity:0.96;
+  display:none;
+  transition:all 0.3s;
+  -moz-transition:all 0.3s;
+  -webkit-transition:all 0.3s;
+}
+
+div.import-div{
+  margin-top:110px;
+  background-color:white;
+}
+
+button.btn.btn-default.import-div{
+  padding:12px 36px;
+  font-weight:100;
+  letter-spacing:2px;
+  font-size:larger;
+  transition:all 0.3s ease-in;
+  -webkit-transition:all 0.3s ease-in;
+  -moz-transition:all 0.3s ease-in;
+  width:100%;
+  border-radius:0px;
+}
+
+button.btn.btn-default.import-div:hover{
+  padding:13px 36px;
+  font-weight:100;
+  letter-spacing:2px;
+  font-size:larger;
+  border:solid 2px #448AFF;
+  background-color:rgb(255,255,255);
+  color:#448AFF;
+}
+
+form.form-import{
+  padding:12px;
+}
+
+div.table-inner-header{
+  padding:0;
+  margin:0;
+}
+
+div.table-inner-header{
+  margin-bottom:15px;
+}
+
+div#custom-import-input.custom-import-input{
+  text-align:center;
+  padding:14px 0px;
+  cursor:pointer;
+  transition:all 0.3s;
+  -webkit-transition:all 0.3s;
+  -moz-transition:all 0.3s;
+}
+
+div#custom-import-input.custom-import-input:hover{
+  background:rgb(207,216,220);
+}
+

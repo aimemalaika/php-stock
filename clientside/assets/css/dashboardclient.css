@@ -1,0 +1,131 @@
+li.active.sidebar{
+  background:#455A64;
+  background-color:#455A64;
+}
+
+li.active.sidebar a{
+  background:#455a64;
+}
+
+nav.navbar.navbar-default{
+  margin-bottom:0px;
+}
+
+.aside-menu-left{
+  position:absolute;
+  left:0px;
+  top:0px;
+  height:100%;
+  transition:all 0.4s ease-in;
+  -moz-transition:all 0.4s ease-in;
+  -webkit-transition:all 0.4s ease-in;
+}
+
+.aside-menu-right{
+  position:absolute;
+  right:0px;
+  top:0px;
+  height:100%;
+  overflow:auto;
+}
+
+li.active.sidebar a:active{
+  background:#455A64;
+}
+
+li.active.sidebar a:hover{
+  background:#455A64;
+}
+
+li.active.sidebar a:focus{
+  background:#455A64;
+}
+
+.addressBtn{
+  border-radius:0px;
+  background:#455A64;
+  color:white;
+  text-shadow:none;
+  border:none;
+  box-shadow:none;
+  transition:all .3s ease-in;
+  -webkit-transition:all .3s ease-in;
+  -moz-transition:all .3s ease-in;
+}
+
+.addressBtnCo{
+  border-radius:0px;
+  background:#00796B;
+  color:white;
+  text-shadow:none;
+  border:none;
+  box-shadow:none;
+  margin-right:2px;
+  transition:all .3s ease-in;
+  -webkit-transition:all .3s ease-in;
+  -moz-transition:all 0.3s ease-in;
+}
+
+.addressBtn:hover{
+  color:#455A64;
+  background:white;
+}
+
+.addressBtnCo:hover{
+  color:#00796B;
+  background:white;
+}
+
+.addressBtn:focus{
+  color:#455A64;
+  background:white;
+}
+
+.addressBtnCo:focus{
+  color:#00796B;
+  background:white;
+}
+
+div.col-md-12.default-primary-color.pad-y-lg.pad-x-sm{
+  border-left:1px solid white;
+}
+
+input.form-control{
+  border-radius:0px;
+}
+
+.addressList:hover{
+  background:#BDBDBD;
+  color:#455A64;
+}
+
+.addressList:hover a{
+  background:#BDBDBD;
+  color:#455A64;
+  text-decoration:none;
+}
+
+@media (max-width:767px) {
+  .aside-menu-left{
+    z-index:2;
+    width:90%;
+    display:none;
+  }
+}
+
+@media (min-width:768px) {
+  div.div-menu-btn{
+    display:none;
+  }
+}
+
+@media (min-width:768px) {
+  div.div-menu-close-btn{
+    display:none;
+  }
+}
+
+.text-primary-color-co{
+  color:#00796B;
+}
+
